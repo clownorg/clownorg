@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @milk-punch
+- 👋 Hi, I’m @clownorg
 - 👀 I’m interested in python, r and c++
-- 🌱 I’m currently learning python
+- 🌱 durham uni + surrey uni alumni. trying to get a quant internship!
 - 📫 How to reach me: imagreencaterpillar@gmail.com
 
 <!---
